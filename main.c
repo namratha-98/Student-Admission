@@ -9,7 +9,7 @@
 
 int main()
 {
-    freopen("input.txt","r",stdin);
+    //freopen("input.txt","r",stdin);
     int main_input=0;
     while(main_input!=7)
     {
