@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include<string.h>
+#include <string.h>
 #include <assert.h>
 #include <stdio.h>
 #include "program.c"
@@ -50,7 +50,7 @@ int main()
 
 
 
-}
+        }
 
     }
 
